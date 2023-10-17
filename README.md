@@ -1,1 +1,1 @@
-# CRMS
+# Campus Recruitment Management Sysytem
