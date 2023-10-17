@@ -1,0 +1,43 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    padding: 0.5rem;
+    margin-left: 30px;
+
+}
+.title
+{
+    text-align: center;
+    font-size: 3rem;
+    color: rgb(0, 102, 255);
+}
+.sub-title{
+    font-size: 2rem;
+}
+.company-title{
+    font-size: 1.8rem;
+}
+.job-title{
+    font-size: 1.4rem;
+}
+.small-title{
+    font-size: 1.2rem;
+}
+.table
+{
+    padding: 0px;
+    min-width: 70%;
+    border: 2px solid black;
+    border-collapse: collapse;
+
+}
+
+.table thead tr th{
+    border: 2px solid black;
+    padding: 7px 0px;
+}
+.table tbody tr td{
+    text-align: center;
+    border: 2px solid black;
+    padding: 7px 0px;
+}
